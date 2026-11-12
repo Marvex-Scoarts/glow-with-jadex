@@ -1,9 +1,9 @@
-# JADEX GLOW
+# GLOW WITH JADEX
 
 **Luminous Skin, Effortlessly Bottled** — A luxury botanical skincare and beauty e-commerce storefront built from scratch with HTML, CSS, and JavaScript.
 
 ## About the Project
-Jadex Glow showcases clean botanical skincare formulas, a limited-edition Glass-Skin Duo promotional spotlight, verified customer love letters, and an interactive Vanity Bag drawer.
+GLOW WITH JADEX showcases clean botanical skincare formulas, a limited-edition Glass-Skin Duo promotional spotlight, verified customer love letters, and an interactive Vanity Bag drawer.
 
 ## Design & Aesthetic
 * **Color Palette:** Warm Vanilla Cream, Champagne Pearl, and Soft Rose Petal surfaces grounded by Rich Espresso Cocoa and Warm Bronze accents.
